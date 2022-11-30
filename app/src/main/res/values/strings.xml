@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LA</string>
+    <string name="title">업다운 게임</string>
+    <string name="guess_number">정답은? : %1$s</string>
+    <string name="input_number">%1$s</string>
+    <string name="text_view_hint">힌트 : %1$s</string>
+    <string name="try_count">시도 : %1$d</string>
+    <string name="enter">확인</string>
+    <string name="reset">리셋</string>
+    <string name="edit_text_hint">숫자 입력(0 ~ 100)</string>
+    <string name="hint_correct">정답 : 축하합니다! 정답입니다!</string>
+    <string name="hint_smaller">힌트 : 더 작은 숫자!</string>
+    <string name="hint_larger">힌트 : 더 큰 숫자!</string>
+    <string name="hint_first">힌트 : 숫자가 비어있습니다..</string>
+
+</resources>
